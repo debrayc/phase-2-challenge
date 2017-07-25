@@ -86,7 +86,7 @@ And you were in the linkedin-for-dancers folder. What command would you use to c
 
 What keyboard shortcut do you use, in your editor, to go to a file in the project you have open?
 
-- Typically, you would enter the name of your editor ((atom) in my case) followed by the relative path to the file. ```atom part-4/quiz.md```
+- The keyboard shortcut to find anything within your current project is: ```shift + command + f```, which will search the entire project, unlike ```shift + f```, which only searches the file that you are currently viewing.
 
 What files or folders do you want all git repositories to ignore?
 
