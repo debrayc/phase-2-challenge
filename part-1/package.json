@@ -1,0 +1,31 @@
+{
+  "name": "part-1",
+  "version": "1.0.0",
+  "description": "Part-1 of Phase-2 interview",
+  "main": "filterBetween.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "mocha --require babel-polyfill --compilers js:babel-register *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/debrayc/phase-2-challenge/part-2.git"
+  },
+  "keywords": [
+    "Part-1",
+    "of",
+    "Phase-2",
+    "interview"
+  ],
+  "author": "DeBray Carpenter",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-preset-env": "^1.6.0",
+    "babel-register": "^6.24.1",
+    "chai": "^4.1.0",
+    "chai-change": "^2.1.2",
+    "mocha": "^3.4.2"
+  }
+}
