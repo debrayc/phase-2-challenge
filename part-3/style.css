@@ -1,11 +1,11 @@
 header {
   background: grey;
   opacity: .7;
-  }
+}
   .row {
   display: table;
   width: 100%;
-    }
+}
 .column {
   display: table-cell;
 }
